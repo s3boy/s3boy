@@ -57,11 +57,7 @@ npm install
 ## Running
 
 ```bash
-npm start
-```
-
-## Testing
-
-```bash
-npm test
+npm start        # Run basic demonstration
+npm run example  # Run comprehensive examples
+npm test         # Run all tests
 ```
