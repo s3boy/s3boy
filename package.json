@@ -1,0 +1,21 @@
+{
+  "name": "s3boy-mongodb-handler",
+  "version": "1.0.0",
+  "description": "A utility to handle complex MongoDB response formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "response",
+    "handler",
+    "utility"
+  ],
+  "author": "s3boy",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
